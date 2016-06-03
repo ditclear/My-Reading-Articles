@@ -19,6 +19,8 @@
 
 [Android自定义View初步](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0606/3001.html)
 
+[Android自定义view进阶-- 神奇的贝塞尔曲线](http://blog.csdn.net/wingichoy/article/details/50492828)
+
 [给自定义View添加TouchEvent事件监听](http://www.cnblogs.com/lhyz/p/4431066.html)
 
 ###Web&&JS
