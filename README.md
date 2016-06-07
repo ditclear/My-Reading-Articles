@@ -2,9 +2,9 @@
 
 ###通用
 
-[(MVP+RxJava+Retrofit)解耦+Mockito单元测试 ](http://www.jianshu.com/p/cdfeb6c3d099?from=singlemessage&isappinstalled=0)
+[(MVP+RxJava+Retrofit)解耦+Mockito单元测试 ](http://www.jianshu.com/p/cdfeb6c3d099?from=singlemessage&isappinstalled=0) √
 
-[Dagger2从入门到放弃再到恍然大悟](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0528/4307.html)
+[Dagger2从入门到放弃再到恍然大悟](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0528/4307.html) √
 
 [Android插件化的过去-现在-未来](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=2653418673&idx=2&sn=a8de881ba21a7229c5fa84d0f9abbd8f&scene=23&srcid=0510aXhbr0IvVD6ghbPvmyvr#rd)
 
@@ -15,9 +15,9 @@
 ###自定义View相关
 [简单说说Android自定义view学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101) **推荐**
 
-[Android Canvas绘图详解（图文）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1212/703.html)
+[Android Canvas绘图详解（图文）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1212/703.html) √
 
-[Android自定义View初步](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0606/3001.html)
+[Android自定义View初步](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0606/3001.html) √
 
 [Android自定义view进阶-- 神奇的贝塞尔曲线](http://blog.csdn.net/wingichoy/article/details/50492828)
 
