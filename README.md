@@ -25,6 +25,14 @@
 
 [给自定义View添加TouchEvent事件监听](http://www.cnblogs.com/lhyz/p/4431066.html)
 
+###单元测试
+
+[关于Andriod单元测试，你需要知道的一切](http://mp.weixin.qq.com/s?__biz=MzAwNzc4OTYwMA==&mid=2653509699&idx=1&sn=246aa732360b1210f0c2a28248e6523f&scene=23&srcid=06081jWwrFtDnT4gE598V9SI#rd)
+
+[邹小创](http://chriszou.com/)
+
+[android-unit-testing-tutorial](https://github.com/ChrisZou/android-unit-testing-tutorial)
+
 ###Material Design
 
 [Android材料设计](http://www.jianshu.com/collection/06bbfc49e803)
