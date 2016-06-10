@@ -15,15 +15,17 @@
 [［译］如何提升Android代码的质量和语法](https://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=405869129&idx=1&sn=7e741439b66095f9b72152d02d226a75)
 
 ###自定义View相关
-[简单说说Android自定义view学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101) **推荐**
+[简单说说Android自定义view学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101) **推荐** √
 
 [Android Canvas绘图详解（图文）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1212/703.html) √
 
 [Android自定义View初步](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0606/3001.html) √
 
-[Android自定义view进阶-- 神奇的贝塞尔曲线](http://blog.csdn.net/wingichoy/article/details/50492828)
+[Android自定义view进阶-- 神奇的贝塞尔曲线](http://blog.csdn.net/wingichoy/article/details/50492828) √
 
-[给自定义View添加TouchEvent事件监听](http://www.cnblogs.com/lhyz/p/4431066.html)
+[给自定义View添加TouchEvent事件监听](http://www.cnblogs.com/lhyz/p/4431066.html) √
+
+[AndroidNote 常用的方法](https://github.com/GcsSloop/AndroidNote)
 
 ###单元测试
 
