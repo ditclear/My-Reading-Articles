@@ -12,7 +12,7 @@
 
 [GRADLE 构建最佳实践](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=2653418586&idx=1&sn=6d85a5733bac3d1e462e908cc49d9502&scene=23&srcid=0428ywjzsQlTKhCi7L7pq0j8#rd) √
 
-[［译］如何提升Android代码的质量和语法](https://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=405869129&idx=1&sn=7e741439b66095f9b72152d02d226a75)
+[［译］如何提升Android代码的质量和语法](https://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=405869129&idx=1&sn=7e741439b66095f9b72152d02d226a75)  √
 
 ###自定义View相关
 [简单说说Android自定义view学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101) **推荐** √
@@ -29,17 +29,19 @@
 
 ###单元测试
 
-[关于Andriod单元测试，你需要知道的一切](http://mp.weixin.qq.com/s?__biz=MzAwNzc4OTYwMA==&mid=2653509699&idx=1&sn=246aa732360b1210f0c2a28248e6523f&scene=23&srcid=06081jWwrFtDnT4gE598V9SI#rd)
+**推荐【从小工到专家第九章单元测试】入门**  √
 
-[邹小创](http://chriszou.com/)
+[关于Andriod单元测试，你需要知道的一切](http://mp.weixin.qq.com/s?__biz=MzAwNzc4OTYwMA==&mid=2653509699&idx=1&sn=246aa732360b1210f0c2a28248e6523f&scene=23&srcid=06081jWwrFtDnT4gE598V9SI#rd)  √
 
-[android-unit-testing-tutorial](https://github.com/ChrisZou/android-unit-testing-tutorial)
+[邹小创](http://chriszou.com/)  √
+
+[android-unit-testing-tutorial](https://github.com/ChrisZou/android-unit-testing-tutorial)  √
 
 ###Material Design
 
-[Android材料设计](http://www.jianshu.com/collection/06bbfc49e803)
+[Android材料设计](http://www.jianshu.com/collection/06bbfc49e803)  √
 
-[进入Material Design时代](http://www.androidchina.net/1381.html)
+[进入Material Design时代](http://www.androidchina.net/1381.html)  √
 
 ###Transition
 
